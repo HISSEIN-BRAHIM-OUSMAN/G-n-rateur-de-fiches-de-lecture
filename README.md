@@ -1,1 +1,1 @@
-# G-n-rateur-de-fiches-de-lecture
+# Generateur-de-fiches-de-lecture
